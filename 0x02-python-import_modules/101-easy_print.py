@@ -1,2 +1,2 @@
 #!/usr/bin/python3
-getattr(__builtins__, 'print')('#pythoniscool')
+__import__('os').system("echo '#pythoniscool'")
